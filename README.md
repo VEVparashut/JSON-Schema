@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/atwtvc0w02w3qlao?svg=true)](https://ci.appveyor.com/project/VEVparashut/about-me)
+[![Build status](https://ci.appveyor.com/api/projects/status/s11wyg2kid02olxu?svg=true)](https://ci.appveyor.com/project/VEVparashut/json-schema)
